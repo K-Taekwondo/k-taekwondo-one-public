@@ -1,16 +1,14 @@
-# Development roadmap | 개발 로드맵
+**Language / 언어:** **English** | [한국어](ROADMAP.ko.md)
+
+# Development roadmap
 
 This is a direction of work, not a delivery commitment. No launch date is promised. Completed isolated checks do not substitute for production acceptance.
 
-이 문서는 개발 방향이며 납기 약속이 아닙니다. 출시일은 확정하지 않았습니다. 분리된 환경의 검증 완료가 운영 환경의 승인을 대신하지 않습니다.
-
-| Phase / 단계 | Focus / 주요 작업 | Status / 상태 |
+| Phase | Focus | Status |
 | --- | --- | --- |
-| Core workflows / 핵심 업무 | Student workspace, stable IDs, reviewed imports, attendance, studio permissions, operational obligations and membership documents. / 수련생 관리, 안정적인 ID, 검토 기반 가져오기, 출석, 도장별 권한, 비용 관리 및 등록·갱신 문서. | Implemented workflows with selected isolated verification; release validation continues. / 구현 및 일부 분리 테스트 완료, 출시 검증 진행 중. |
-| Release readiness / 출시 준비 | Complete remaining authorization and expiry checks, document fidelity review, mobile and physical scanner/printer acceptance, secure backup and recovery rehearsal, deployment review and owner approval. / 남은 권한·만료 검증, 문서 재현 검토, 모바일 및 실물 스캐너·프린터 확인, 안전한 백업·복구 훈련, 배포 검토와 운영자 승인. | Pending gates; no full production readiness claim. / 필수 검증 잔여, 전체 운영 준비 완료를 주장하지 않음. |
-| SaaS discovery / SaaS 검토 | Validate demand, onboarding, tenant isolation, support capacity, operating costs and sustainable packaging. / 수요, 초기 도입, 고객별 데이터 격리, 지원 역량, 운영 비용 및 지속 가능한 상품 구성 검토. | Future proposal. / 향후 제안. |
-| Controlled SaaS pilot / 제한된 SaaS 시범 운영 | Define service terms, privacy responsibilities, support processes and an approved limited pilot before broader availability. / 서비스 조건, 개인정보 책임, 지원 절차 및 승인된 제한 시범 운영을 정식 제공 전에 마련. | Conditional on discovery and release readiness. / 사업 검토 및 출시 준비 충족 후 결정. |
+| Core workflows | Student workspace, stable IDs, reviewed imports, attendance, studio permissions, operational obligations and membership documents. | Implemented workflows with selected isolated verification; release validation continues. |
+| Release readiness | Complete remaining authorization and expiry checks, document fidelity review, mobile and physical scanner/printer acceptance, secure backup and recovery rehearsal, deployment review and owner approval. | Pending gates; no full production readiness claim. |
+| SaaS discovery | Validate demand, onboarding, tenant isolation, support capacity, operating costs and sustainable packaging. | Future proposal. |
+| Controlled SaaS pilot | Define service terms, privacy responsibilities, support processes and an approved limited pilot before broader availability. | Conditional on discovery and release readiness. |
 
 Parent/family portals, native apps, and Meta/AI marketing remain deferred with no committed schedule. Payment processing, automatic charges, facial recognition, and wallet passes are outside the current scope.
-
-학부모·가족 포털, 네이티브 앱 및 Meta/AI 마케팅은 일정 약속 없이 보류합니다. 결제 처리, 자동 청구, 얼굴 인식 및 지갑 패스는 현재 범위에 포함하지 않습니다.
