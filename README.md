@@ -8,6 +8,28 @@ K-Taekwondo One is a studio operations product in development, shaped around the
 
 > This is a documentation-only product showcase. Application source, internal infrastructure, credentials, and student records are not distributed here. Selected workflows have been exercised in isolated testing; full production release validation remains pending. This repository does not announce general availability.
 
+## Product gallery
+
+Actual application components in an isolated fictional demo. These images are not live student records or proof of production readiness.
+
+### Daily operations
+
+Reservations, actual arrivals and staff review in one view.
+
+![Daily operations — Fictional demo / 가상 시연](assets/screenshots/operations-home.png)
+
+### Student roster
+
+Searchable fictional records with program and rank information.
+
+![Student roster — Fictional demo / 가상 시연](assets/screenshots/student-roster.png)
+
+### Restricted check-in
+
+A focused arrival screen without private student details.
+
+![Restricted check-in — Fictional demo / 가상 시연](assets/screenshots/check-in.png)
+
 ## Explore
 
 - [Product capabilities](docs/FEATURES.md)
